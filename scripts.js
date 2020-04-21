@@ -5,7 +5,7 @@ var dsClickwrapId = '7068a6cd-1c4f-4b48-86f9-71084df7984c';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
-var logoUrl = 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.subaru-global.com%2Fcommon%2Fimages%2Flogo01.png&imgrefurl=https%3A%2F%2Fwww.subaru-global.com%2F&tbnid=ky6bF2zTTVsosM&vet=12ahUKEwi-6fj-rfroAhXOiJ4KHXeJBM0QMygGegUIARDcAg..i&docid=zHALoPd83_PuXM&w=281&h=200&q=images%20of%20subaru%20logo&ved=2ahUKEwi-6fj-rfroAhXOiJ4KHXeJBM0QMygGegUIARDcAg';
+var logoUrl = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMBpmXq3JghMEyof7hfg9jpKw47e0hVgWKJORSlTxycQTM8Sdl&s';
 // replace with your brand hex code.  changes color of header text and button background //
 var fontColor = '#3d00b2';
 // replace with a hex code of your liking.  changes text color on the submit button //
