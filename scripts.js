@@ -5,7 +5,7 @@ var dsClickwrapId = '7068a6cd-1c4f-4b48-86f9-71084df7984c';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
-var logoUrl = 'https://www.innov8ive.app/LOGO.png';
+var logoUrl = 'https://disneyland.disney.go.com';
 // replace with your brand hex code.  changes color of header text and button background //
 var fontColor = '#3d00b2';
 // replace with a hex code of your liking.  changes text color on the submit button //
